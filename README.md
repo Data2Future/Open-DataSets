@@ -1,4 +1,3 @@
-Here's a sample GitHub home page (README.md) template for your "Open Data Sets" project. It is tailored for Data Science engineers, students, ML experts, and Business Analysts to use freely. Feel free to customize it further!
 
 ---
 
